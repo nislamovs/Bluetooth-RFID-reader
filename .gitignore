@@ -5,5 +5,7 @@
 *.ipr
 
 .cmake-build-debug
+cmake-build-debug
+build
 
 bt-rfid-reader*

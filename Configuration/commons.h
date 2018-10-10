@@ -1,6 +1,7 @@
-#ifndef __EASYAVR_H_
-#define __EASYAVR_H_
+#ifndef __COMMONS_H_
+#define __COMMONS_H_
 
+#define F_CPU 16000000UL
 
 //  Sets pin of port to 1
 //
